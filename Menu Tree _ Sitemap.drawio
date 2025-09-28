@@ -1,0 +1,310 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+  <diagram name="Page-1" id="ZCOvtBAHcqAn0ucyECTc">
+    <mxGraphModel dx="1620" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xNRGtrApn_R48pnJrdOI-1" value="Games Sonnet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xNRGtrApn_R48pnJrdOI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="920" as="sourcePoint" />
+            <mxPoint x="140" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="350" />
+              <mxPoint x="120" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-3" target="xNRGtrApn_R48pnJrdOI-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-3" value="&lt;div&gt;Trending Games (RAWG API)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-4" target="xNRGtrApn_R48pnJrdOI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-4" target="xNRGtrApn_R48pnJrdOI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-4" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="70" as="sourcePoint" />
+            <mxPoint x="140" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-8" target="xNRGtrApn_R48pnJrdOI-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-8" value="Game Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-9" target="xNRGtrApn_R48pnJrdOI-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-9" target="xNRGtrApn_R48pnJrdOI-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="290" />
+              <mxPoint x="430" y="290" />
+              <mxPoint x="430" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-9" value="Big Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-12" value="Add Reviews&lt;div&gt;&amp;amp; Rating(if logged in)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-14" target="xNRGtrApn_R48pnJrdOI-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="250" />
+              <mxPoint x="260" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-14" value="Suggested Games(MongoDb)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xNRGtrApn_R48pnJrdOI-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280.04" y="315" />
+            </Array>
+            <mxPoint x="280.04" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-16" value="Game Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-18" target="xNRGtrApn_R48pnJrdOI-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350.04" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350.04" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-18" target="xNRGtrApn_R48pnJrdOI-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-18" value="Big Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310.04" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-19" value="Add Reviews &amp;amp; Ratings (if logged in)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375.04" y="340" width="114.96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-22" value="Reviews section" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-24" value="Reviews section" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="350" as="sourcePoint" />
+            <mxPoint x="170" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-26" value="About Page(Website details)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.44;exitY=0.962;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-43" target="xNRGtrApn_R48pnJrdOI-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-27" value="Add Yours" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xNRGtrApn_R48pnJrdOI-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="420" as="sourcePoint" />
+            <mxPoint x="170" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="117.53" y="630" as="sourcePoint" />
+            <mxPoint x="167.53" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-30" target="xNRGtrApn_R48pnJrdOI-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-30" value="Your Suggestion(if logged in)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167.49" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xNRGtrApn_R48pnJrdOI-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="272.51" y="725" />
+            </Array>
+            <mxPoint x="272.51" y="700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-34" target="xNRGtrApn_R48pnJrdOI-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342.51" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="342.51" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-34" target="xNRGtrApn_R48pnJrdOI-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382.46999999999997" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-34" value="Big Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.51" y="710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-35" value="Add Reviews &amp;amp; Ratings (if logged in)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.51" y="750" width="99.98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-36" value="Reviews section" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402.46999999999997" y="800" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-37" value="Game card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.53" y="670" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="750" as="sourcePoint" />
+            <mxPoint x="160" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-40" value="Login/signup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-43" value="Enter game name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-45" value="Fetch game details from Ragw api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.76" y="480" width="92.47" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-46" value="save game details in Pending games(Mongodb) &amp;amp; wait for Admin Approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-45" target="xNRGtrApn_R48pnJrdOI-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="564" />
+              <mxPoint x="400" y="564" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-27" target="xNRGtrApn_R48pnJrdOI-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="540" as="targetPoint" />
+            <mxPoint x="180" y="520" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="230" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-50" value="Enter game details manually" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.53" y="520" width="92.47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-52" value="save game details in Pending games(Mongodb) &amp;amp; wait for Admin Approval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="605" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.567;exitY=1;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-50" target="xNRGtrApn_R48pnJrdOI-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="639" />
+              <mxPoint x="295" y="639" />
+            </Array>
+            <mxPoint x="294.9950000000001" y="595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-54" target="xNRGtrApn_R48pnJrdOI-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="218" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-54" target="xNRGtrApn_R48pnJrdOI-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-54" target="xNRGtrApn_R48pnJrdOI-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-54" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170.99" y="870" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xNRGtrApn_R48pnJrdOI-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="880" as="sourcePoint" />
+            <mxPoint x="170" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-56" target="xNRGtrApn_R48pnJrdOI-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-56" value="Approve game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-58" target="xNRGtrApn_R48pnJrdOI-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-58" value="Reject game" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1010" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-60" value="Update status in pending games to rejected in mongodb&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372.46999999999997" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-63" value="Add game details to game and update status to approved in mongodb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="960" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xNRGtrApn_R48pnJrdOI-65" target="xNRGtrApn_R48pnJrdOI-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-65" value="Edit Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-68" value="Update game details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.47" y="1170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xNRGtrApn_R48pnJrdOI-70" value="Menu Tree / Sitemap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-40" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
